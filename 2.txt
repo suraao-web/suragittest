@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-first line(edit)
-=======
 first line
 branch second line
->>>>>>> git-branch-1
+branch third line
